@@ -4,7 +4,7 @@ author: "itsLeatch"
 description: "It's an electrically locked box that only opens once you've reached your goal."
 created_at: "2025-06-09"
 ---
-**Total time spent: 14h**
+**Total time spent: 26h**
 
 # Day 1 (June 9th): Familiarize yourself with fusion 360
 Today I created an education account for fusion 360 and installed the application as well. In addition to that, I familiarized myself with the program by building a lego brick from an tuturial. 
@@ -25,4 +25,13 @@ front:
 ![image](https://github.com/user-attachments/assets/253173ac-7e45-48cc-89fe-b1667c58f4c5)
 back:
 ![image](https://github.com/user-attachments/assets/f610e8a7-3236-4d63-ad99-4b785bb0b221)
-**TIme spent: 8h**
+**Time spent: 8h**
+
+# Day 4 (July 1st): Finished PCB (hopefully)
+I was really busy today. I added a fourth switch and wired the PCB.
+![image](https://github.com/user-attachments/assets/1819932a-839b-40a8-95a2-118cf3e7dd34)
+I also started the 3D modelling of the box and went to a local building centre to look at the prices of screws.
+![image](https://github.com/user-attachments/assets/cca435c8-716b-40f1-9f84-c0a4bcb5a2b5)
+I am also quite confident with my selected parts. A boom will follow shortly. 
+
+**Time spent: 12h**
