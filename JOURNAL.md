@@ -4,7 +4,7 @@ author: "itsLeatch"
 description: "It's an electrically locked box that only opens once you've reached your goal."
 created_at: "2025-06-09"
 ---
-**Total time spent: 26h**
+**Total time spent: 30h**
 
 # Day 1 (June 9th): Familiarize yourself with fusion 360
 Today I created an education account for fusion 360 and installed the application as well. In addition to that, I familiarized myself with the program by building a lego brick from an tuturial. 
@@ -35,3 +35,13 @@ I also started the 3D modelling of the box and went to a local building centre t
 I am also quite confident with my selected parts. A boom will follow shortly. 
 
 **Time spent: 12h**
+
+# Day 5 (July 2nd): PCB-Housing
+On day 5, I mainly worked on the PCB housing for the box. I created screw holders and a front plate for installation, as well as cut-outs for components and the hall effect sensor.
+Front-Cover:
+![image](https://github.com/user-attachments/assets/8b712a30-f103-476d-9c3a-cda2762e629b)
+Cut-Outs:
+![image](https://github.com/user-attachments/assets/eecdfeb9-79cb-4f2a-b41e-68935c384192)
+with PCB:
+![image](https://github.com/user-attachments/assets/8c04cdf7-2e6d-4cc5-8100-9fa8a4e5c6a8)
+**Time spent: 4h**
