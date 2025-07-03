@@ -4,7 +4,7 @@ author: "itsLeatch"
 description: "It's an electrically locked box that only opens once you've reached your goal."
 created_at: "2025-06-09"
 ---
-**Total time spent: 30h**
+**Total time spent: 32h**
 
 # Day 1 (June 9th): Familiarize yourself with fusion 360
 Today I created an education account for fusion 360 and installed the application as well. In addition to that, I familiarized myself with the program by building a lego brick from an tuturial. 
@@ -45,3 +45,12 @@ Cut-Outs:
 with PCB:
 ![image](https://github.com/user-attachments/assets/8c04cdf7-2e6d-4cc5-8100-9fa8a4e5c6a8)
 **Time spent: 4h**
+
+# Day 6 (July 3nd): Closing-Mechanism
+Today I started creating the closing mechanism. First I added the housing for the servo motor.
+servo motor housing:
+![image](https://github.com/user-attachments/assets/69cd95d1-9a23-416e-bbc8-a6fb06af51c6)
+Afterwards I started creating the gear system.
+gear system:
+![image](https://github.com/user-attachments/assets/3be9c743-e3cb-4e9f-a6b0-e56b00979cad)
+**Time spent: 2h**
