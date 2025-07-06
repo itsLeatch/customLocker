@@ -4,7 +4,7 @@ author: "itsLeatch"
 description: "It's an electrically locked box that only opens once you've reached your goal."
 created_at: "2025-06-09"
 ---
-**Total time spent: 32h**
+**Total time spent: 40h**
 
 # Day 1 (June 9th): Familiarize yourself with fusion 360
 Today I created an education account for fusion 360 and installed the application as well. In addition to that, I familiarized myself with the program by building a lego brick from an tuturial. 
@@ -54,3 +54,10 @@ Afterwards I started creating the gear system.
 gear system:
 ![image](https://github.com/user-attachments/assets/3be9c743-e3cb-4e9f-a6b0-e56b00979cad)
 **Time spent: 2h**
+
+# Day 7 (July 5nd): Closing-Mechanism
+Today I made a lot of progress. I added motion to the gear and a gear cover to hold the servo.
+![image](https://github.com/user-attachments/assets/0fd44d29-f764-4a54-9042-4b6dfc79ff35)
+Afterwards I created the distance holder for the load cell as well as a model of the laod cell and the inner box that carries the weight. 
+![image](https://github.com/user-attachments/assets/0d8ea517-6fb8-49b5-84a1-e278024271fd)
+**Time spent: 8h**
