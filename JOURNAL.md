@@ -4,7 +4,7 @@ author: "itsLeatch"
 description: "It's an electrically locked box that only opens once you've reached your goal."
 created_at: "2025-06-09"
 ---
-**Total time spent: 50h**
+**Total time spent: 56h**
 
 # Day 1 (June 9th): Familiarize yourself with fusion 360
 Today I created an education account for fusion 360 and installed the application as well. In addition to that, I familiarized myself with the program by building a lego brick from an tuturial. 
@@ -71,3 +71,10 @@ Afterwards I made the hole for the wireless charger.
 ![image](https://github.com/user-attachments/assets/601931c4-fb0d-41a0-8b8e-7a2e79788ec6)
 I also had to add a lot of details with regard to spacing, which was really time-consuming.
 **Time spent: 10h**
+
+# Day 9 (July 17nd): Final
+I forgot that the screws would stick out a little, so I made a hole for them with covers.
+<img width="1144" height="914" alt="image" src="https://github.com/user-attachments/assets/2e42d41b-67ad-47ec-bb58-9ba20ba42267" />
+There were also some other minor improvements that are not worth mentioning.
+Besides that, I spent most of the time working on all the files to submit the project finally. 🎆
+**Time spent: 6h**
