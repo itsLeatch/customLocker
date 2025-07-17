@@ -4,7 +4,7 @@ author: "itsLeatch"
 description: "It's an electrically locked box that only opens once you've reached your goal."
 created_at: "2025-06-09"
 ---
-**Total time spent: 32h**
+**Total time spent: 50h**
 
 # Day 1 (June 9th): Familiarize yourself with fusion 360
 Today I created an education account for fusion 360 and installed the application as well. In addition to that, I familiarized myself with the program by building a lego brick from an tuturial. 
@@ -54,3 +54,20 @@ Afterwards I started creating the gear system.
 gear system:
 ![image](https://github.com/user-attachments/assets/3be9c743-e3cb-4e9f-a6b0-e56b00979cad)
 **Time spent: 2h**
+
+# Day 7 (July 5nd): Closing-Mechanism
+Today I made a lot of progress. I added motion to the gear and a gear cover to hold the servo.
+![image](https://github.com/user-attachments/assets/0fd44d29-f764-4a54-9042-4b6dfc79ff35)
+Afterwards I created the distance holder for the load cell as well as a model of the laod cell and the inner box that carries the weight. 
+![image](https://github.com/user-attachments/assets/0d8ea517-6fb8-49b5-84a1-e278024271fd)
+**Time spent: 8h**
+
+# Day 8 (July 6nd): Closing-Mechanism
+Today I added a Box cover with some hinges.
+![image](https://github.com/user-attachments/assets/3ee20a04-0d28-4e26-a153-df5dd2214464)
+Then I added the final part to close the box.
+![image](https://github.com/user-attachments/assets/5f9ec02e-c7d3-4981-ab02-8b748f25811d)
+Afterwards I made the hole for the wireless charger.
+![image](https://github.com/user-attachments/assets/601931c4-fb0d-41a0-8b8e-7a2e79788ec6)
+I also had to add a lot of details with regard to spacing, which was really time-consuming.
+**Time spent: 10h**
