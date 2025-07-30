@@ -1,0 +1,3 @@
+[submodule "firmware/customLockerFirmware"]
+	path = firmware/customLockerFirmware
+	url = https://github.com/itsLeatch/customLockerFirmware
