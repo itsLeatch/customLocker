@@ -2,6 +2,9 @@
 This project is an electrically locked box. You can safely store things that you are addicted to inside it and unlock it by reaching a particular goal. I'm going to put sweets in it and unlock the box once I've reached my daily calorie target on my smartwatch. Inside the box is a load cell that can roughly detect the amount of sweets taken out. In addition to that, there is a wireless charger, that will charge e.g. your phone while beeing busy. 
 ## Why I made this project
 I often find myself looking at my phone a lot when I'm busy, which slows me down. Furthermore, I also want to do more sport. With the box, I can combine these things and create my first PCB, build a large 3D model, and learn many other skills.
+## Showcase
+https://github.com/user-attachments/assets/28022000-88c3-4b23-8f9c-2944c17416d4
+
 ## Pictures
 ### 3D-Model
 <img width="549" height="395" alt="image" src="https://github.com/user-attachments/assets/8979d5e2-66a8-4a0c-b769-1451c18ad818" />
